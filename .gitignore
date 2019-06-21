@@ -6,3 +6,7 @@ bin
 .gradle
 .classpath
 releases
+run
+
+# Idea
+.idea/
